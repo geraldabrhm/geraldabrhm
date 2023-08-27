@@ -1,6 +1,6 @@
 👋 Hi there! I'm Gerald Abraham Sianturi, a final-year Informatics Engineering student at Institut Teknologi Bandung, Indonesia. I am passionate about the dynamic worlds of web development and machine learning.
 
-## 📬 Contacts
+## 📬 Contact Information
 <a href="https://www.linkedin.com/in/gerald-abraham-sianturi/"><img src="https://img.shields.io/badge/-geraldabrhm-blue?style=flat-square&logo=Linkedin&logoColor=white/"></a>
 <a href="mailto: geraldabraham16@gmail.com"><img src="https://img.shields.io/badge/-geraldabraham16@gmail.com-f6f6f6?style=flat-square&logo=Gmail&logoColor=white/"></a>
 
