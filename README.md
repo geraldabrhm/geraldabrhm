@@ -7,7 +7,7 @@
 ## 📊 Stats
 ![Language Stats](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=geraldabrhm&langs_count=10&layout=compact&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&theme=react&hide=jupyter%20notebook,html)
 
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=geraldabrhm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true%22)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=geraldabrhm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 
 ## 📂 Certificates
 Check out my attained certification [here](https://drive.google.com/drive/folders/1FHM6UL_iEcFK1vvbOi02xvh8Fp0SIJZ_?usp=sharing)
